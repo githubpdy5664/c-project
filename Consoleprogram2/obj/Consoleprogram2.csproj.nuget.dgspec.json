@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\dsadasda\\c-project\\ConsoleProgram\\ConsoleProgram.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\dsadasda\\c-project\\Consoleprogram2\\Consoleprogram2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\dsadasda\\c-project\\ConsoleProgram\\ConsoleProgram.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\dsadasda\\c-project\\Consoleprogram2\\Consoleprogram2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\dsadasda\\c-project\\ConsoleProgram\\ConsoleProgram.csproj",
-        "projectName": "ConsoleProgram",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\dsadasda\\c-project\\ConsoleProgram\\ConsoleProgram.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\dsadasda\\c-project\\Consoleprogram2\\Consoleprogram2.csproj",
+        "projectName": "Consoleprogram2",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\dsadasda\\c-project\\Consoleprogram2\\Consoleprogram2.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\dsadasda\\c-project\\ConsoleProgram\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\dsadasda\\c-project\\Consoleprogram2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
